@@ -1,3 +1,6 @@
+---
+permalink: LINKS/
+---
 # LINKS
 
 ## WEEK-01: Overview, Virtualization & Scripting
