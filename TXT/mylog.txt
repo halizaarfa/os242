@@ -12,4 +12,16 @@ ZCZC W00 10   L41 TXT/mylog.txt related.
 ZCZC W00 20   L63 Fixing Hardware Problems
 ZCZC W00 150  L70 Studying for other courses.
 ZCZC W00 45   L73 Gaming including Board Games.
-ZCZC W00 45   L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W00 45   L80 Watching: Movie, YouTube, TV, Netflix, etc.
+
+ZCZC W01 100  L01 SCELE/Discord related
+ZCZC W01 150  L03 Github related
+ZCZC W01 90   L05 Quiz related including studying
+ZCZC W01 60   L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W01 300  L11 Assignment #01
+ZCZC W01 60   L22 Linux CLI including tar, etc.
+ZCZC W01 90   L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W01 10   L41 TXT/mylog.txt related.
+ZCZC W01 150  L70 Studying for other courses.
+ZCZC W01 45   L73 Gaming including Board Games.
+ZCZC W01 90   L80 Watching: Movie, YouTube, TV, Netflix, etc.
