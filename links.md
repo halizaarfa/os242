@@ -14,6 +14,6 @@ permalink: LINKS/
 * [What is Encryption and How Does it Work?](https://youtu.be/r4HQ8Bp-pfw?si=ax1qGz1q80qqXAYa): Video penjelasan tentang enkripsi mulai dari Public Key, Private Key, dan lainnya
 
 ## WEEK-03: File System & FUSE
-* [Files & File Systems](https://www.youtube.com/watch?v=KN8YgJnShPM): Video penjelasan terkait Files & File Systems oleh Crash Course
-* [What's a Disk Partition?](https://www.youtube.com/watch?v=udDkSdKLFGk&ab_channel=AskLeo!): Video introduction terkait apa yang dimaksud dengan partisi suatu disk 
+* [Files & File Systems](https://www.youtube.com/watch?v=KN8YgJnShPM): Video penjelasan terkait Files serta File Systems oleh Crash Course
+* [What's a Disk Partition?](https://www.youtube.com/watch?v=udDkSdKLFGk&ab_channel=AskLeo!): Video pengenalan terkait apa yang dimaksud dengan partisi suatu disk 
 * [Makefile Tutorial](https://makefiletutorial.com/): Penjelasan terkait makefile
