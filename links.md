@@ -17,3 +17,8 @@ permalink: LINKS/
 * [Files & File Systems](https://www.youtube.com/watch?v=KN8YgJnShPM): Video penjelasan terkait Files serta File Systems oleh Crash Course
 * [What's a Disk Partition?](https://www.youtube.com/watch?v=udDkSdKLFGk&ab_channel=AskLeo!): Video pengenalan terkait apa yang dimaksud dengan partisi suatu disk 
 * [Makefile Tutorial](https://makefiletutorial.com/): Penjelasan terkait makefile
+
+## WEEK-04: Addressing, Shared Lib, & Pointer
+* [What is virtual memory? - Gray explains](https://www.youtube.com/watch?v=2quKyPnUShQ): Video penjelasan terkait virtual memory
+* [`scp` command](https://youtu.be/fmMg6cyww14?feature=shared): Penjelasan mengenai transfer files antara dua komputer
+
