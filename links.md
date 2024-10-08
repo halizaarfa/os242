@@ -22,3 +22,7 @@ permalink: LINKS/
 * [What is virtual memory? - Gray explains](https://www.youtube.com/watch?v=2quKyPnUShQ): Video penjelasan terkait virtual memory
 * [`scp` command](https://youtu.be/fmMg6cyww14?feature=shared): Penjelasan mengenai transfer files antara dua komputer
 
+## WEEK-05: Virtual Memory
+* [Bubble Sort - Data Structure and Algorithm Tutorials](https://www.geeksforgeeks.org/bubble-sort/): Penjelasan terkait bubble sort!
+* [What is Virtual Memory?](https://www.codecademy.com/resources/blog/virtual-memory/): Artikel terkait virtual memory
+* [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/): Artikel mengenai page replacements
