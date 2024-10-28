@@ -26,3 +26,7 @@ permalink: LINKS/
 * [Bubble Sort - Data Structure and Algorithm Tutorials](https://www.geeksforgeeks.org/bubble-sort/): Penjelasan terkait bubble sort!
 * [What is Virtual Memory?](https://www.codecademy.com/resources/blog/virtual-memory/): Artikel terkait virtual memory
 * [Page Replacement Algorithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/): Artikel mengenai page replacements
+
+## WEEK-06: Concurrency: Processes & Threads
+* [State of a Process](https://www.geeksforgeeks.org/states-of-a-process-in-operating-systems/): Artikel mengenai state process
+* [`fork()` dan `exec()`](https://youtu.be/IFEFVXvjiHY?feature=shared): Video penjelasan terkait dengan fork() dan exec() dalam system call 
