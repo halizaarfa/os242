@@ -32,6 +32,6 @@ permalink: LINKS/
 * [`fork()` dan `exec()`](https://youtu.be/IFEFVXvjiHY?feature=shared): Video penjelasan terkait dengan fork() dan exec() dalam system call 
 
 ## WEEK-07: Synchronization & Deadlock
-* [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/) | Artikel | Penjelasan mengenai semaphore pada proses *synchronization*1~[Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/): Artikel mengenai semaphore pada synchronization
+* [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/): Artikel mengenai semaphore pada synchronization
 * [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/): Penjelasan tentang perbedaan antara deadlock dengan starvation
 
