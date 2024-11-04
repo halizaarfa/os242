@@ -99,3 +99,21 @@ ZCZC W06 30   L44 TXT/myscript.sh related
 ZCZC W06 25   L45 TXT/SHA256SUM related
 ZCZC W06 30   L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W06 30   L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+
+ZCZC W07 195  L01 SCELE/Discord related
+ZCZC W07 240  L03 Github related
+ZCZC W07 100  L05 Quiz related including studying
+ZCZC W07 120  L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W07 60   L08 OS Chat related
+ZCZC W07 220  L17 Assignment #07
+ZCZC W07 30   L21 Trying something
+ZCZC W07 100  L22 Linux CLI including tar, etc.
+ZCZC W07 60   L23 Bash, Regex, SED, AWK.
+ZCZC W07 30   L25 C-language including Make.
+ZCZC W07 100  L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W07 10   L41 TXT/mylog.txt related.
+ZCZC W07 20   L43 TXT/myrank.txt related, including peer review.
+ZCZC W07 30   L44 TXT/myscript.sh related
+ZCZC W07 25   L45 TXT/SHA256SUM related
+ZCZC W07 30   L61 Install/Reinstall/Restore/Backup Virtual Box
+ZCZC W07 30   L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
