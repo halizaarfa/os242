@@ -35,3 +35,8 @@ permalink: LINKS/
 * [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/): Artikel mengenai semaphore pada synchronization
 * [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/): Penjelasan tentang perbedaan antara deadlock dengan starvation
 
+## WEEK08: Linux from Scratch
+* [LFS 12.0 Playlist by Kernotex](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315): Video penjelasan lengkap terkait instalsasi Linux from Scratch
+* [LFS Book for VirtualBox](https://www.linuxfromscratch.org/lfs/view/12.0/): Dokumentasi LFS
+* [Process Queues](https://www.javatpoint.com/os-process-queues): Artikel penjelasan terkait proses-proses queue yang ada
+* [Multiple-Processor Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/): Artikel penjelasan tentang multiple-processor scheduling
