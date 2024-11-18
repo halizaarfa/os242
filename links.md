@@ -35,8 +35,13 @@ permalink: LINKS/
 * [Semaphores in Process Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/): Artikel mengenai semaphore pada synchronization
 * [Difference between Deadlock and Starvation in OS](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/): Penjelasan tentang perbedaan antara deadlock dengan starvation
 
-## WEEK08: Linux from Scratch
+## WEEK08: Scheduling + W06/W07
 * [LFS 12.0 Playlist by Kernotex](https://www.youtube.com/playlist?list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315): Video penjelasan lengkap terkait instalsasi Linux from Scratch
 * [LFS Book for VirtualBox](https://www.linuxfromscratch.org/lfs/view/12.0/): Dokumentasi LFS
 * [Process Queues](https://www.javatpoint.com/os-process-queues): Artikel penjelasan terkait proses-proses queue yang ada
 * [Multiple-Processor Scheduling](https://www.geeksforgeeks.org/multiple-processor-scheduling-in-operating-system/): Artikel penjelasan tentang multiple-processor scheduling
+
+## WEEK09: Storage, Firmware, Bootloader, & Systemd
+* [What Makes ALL Your Electronics Work - Firmware Explained](https://youtu.be/3YfZcNUhBKY?si=naQI8jRjLRb4xUy0): Video penjelasan singkat tentang apa itu Firmware
+* [How Does Linux Boot Process Work?](https://youtu.be/XpFsMB6FoOs?si=BfGamvwiXDTkOWfb): Video yang menjawab cara Linux melakukan Boot
+* [Systemd Explained: The Ultimate Deep Dive for Linux Users](https://youtu.be/Kzpm-rGAXos?si=VmV4mZKSxS-aNsCj): Video yang mendalami tentang systemd
