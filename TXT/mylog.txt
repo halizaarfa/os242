@@ -14,6 +14,7 @@ ZCZC W00 150  L70 Studying for other courses.
 ZCZC W00 45   L73 Gaming including Board Games.
 ZCZC W00 45   L80 Watching: Movie, YouTube, TV, Netflix, etc.
 
+
 ZCZC W01 100  L01 SCELE/Discord related
 ZCZC W01 150  L03 Github related
 ZCZC W01 90   L05 Quiz related including studying
@@ -135,7 +136,7 @@ ZCZC W08 30   L61 Install/Reinstall/Restore/Backup Virtual Box
 ZCZC W08 30   L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
 
 ZCZC W09 180  L01 SCELE/Discord related
-ZCZC W08 200  L02 Attending Class
+ZCZC W09 200  L02 Attending Class
 ZCZC W09 220  L03 Github related
 ZCZC W09 100  L05 Quiz related including studying
 ZCZC W09 120  L06 References/Books/Documents/Browsing/GSGS related
@@ -150,3 +151,18 @@ ZCZC W09 10   L41 TXT/mylog.txt related.
 ZCZC W09 20   L43 TXT/myrank.txt related, including peer review.
 ZCZC W09 30   L44 TXT/myscript.sh related
 ZCZC W09 25   L45 TXT/SHA256SUM related
+
+ZCZC W10 180  L01 SCELE/Discord related
+ZCZC W10 220  L03 Github related
+ZCZC W10 100  L05 Quiz related including studying
+ZCZC W10 300  L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W10 100  L08 OS Chat related
+ZCZC W10 700  L20 Assignment #10
+ZCZC W10 100  L22 Linux CLI including tar, etc.
+ZCZC W10 60   L23 Bash, Regex, SED, AWK.
+ZCZC W10 30   L25 C-language including Make.
+ZCZC W10 100  L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W10 10   L41 TXT/mylog.txt related.
+ZCZC W10 20   L43 TXT/myrank.txt related, including peer review.
+ZCZC W10 30   L44 TXT/myscript.sh related
+ZCZC W10 25   L45 TXT/SHA256SUM related

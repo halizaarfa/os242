@@ -45,3 +45,7 @@ permalink: LINKS/
 * [What Makes ALL Your Electronics Work - Firmware Explained](https://youtu.be/3YfZcNUhBKY?si=naQI8jRjLRb4xUy0): Video penjelasan singkat tentang apa itu Firmware
 * [How Does Linux Boot Process Work?](https://youtu.be/XpFsMB6FoOs?si=BfGamvwiXDTkOWfb): Video yang menjawab cara Linux melakukan Boot
 * [Systemd Explained: The Ultimate Deep Dive for Linux Users](https://youtu.be/Kzpm-rGAXos?si=VmV4mZKSxS-aNsCj): Video yang mendalami tentang systemd
+
+## WEEK10: I/O & Programming
+* [Kernotex Chapter 8](https://youtu.be/ReIeiTqYTGc?si=lZ6FeZCSsy7VI_78): Full guide to do this LAST week's assignment (please let my grades be good)
+* [For You](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN250ZDFhYXZqNHV6ajJvanFxMjVwdG1nOTYyZXVrNXZib2d5a3l4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aWANGF6KuLqzMjZEmO/giphy.webp): Thank you for enduring up until week 10! You did well >___<
